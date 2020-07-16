@@ -12,8 +12,6 @@ This assignment outlined below is an example of what is given to students (it is
 **Differences from basic**
 This version of the assignment uses a more "traditional" folder structure for the java files.  Traditional is wrapped in quotes because it is not as accurate as it could be but that structure is in the advanced versions of the assignment.
 
-This version does not have the "Java" language tag given out by GitHub even though it still has a java file in the project.  This is because the Java file is not in the root it is simply in a folder created and named "src".  This is "corrected" in the advanced version as well.  Even without this tag the repo and project works as intended, though it could take slight more setup depending on the IDE.
-
 # Counting Fierce
 >Backstory of assignment here for lore purposes.
 
