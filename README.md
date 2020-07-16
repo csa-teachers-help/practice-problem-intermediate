@@ -5,12 +5,14 @@ This is found in the top right of the screen
 
 ![Fork location](images/fork-button.png)
 
-Selecting this button will give you options asking where you would like to fork the repo.  You can select from your account or any organization you have permission in.  This is different than how a classroom assignment is distributed.  Make sure to keep that in mind when going through this initial process.
+Selecting this button will give you options asking where you would like to fork the repo.  You can select from your account or any organization you have permission in.  This is different from how a classroom assignment gets distributed.  Make sure to keep that in mind when going through this initial process.
 
 This assignment outlined below is an example of what is given to students (it is not a perfect 1:1 to what students are given).
 
 **Differences from basic**
 This version of the assignment uses a more "traditional" folder structure for the java files.  Traditional is wrapped in quotes because it is not as accurate as it could be but that structure is in the advanced versions of the assignment.
+
+This version does not have the "Java" language tag given out by GitHub even though it still has a java file in the project.  This is because the Java file is not in the root it is simply in a folder created and named "src".  This is "corrected" in the advanced version as well.  Even without this tag the repo and project works as intended, though it could take slight more setup depending on the IDE.
 
 # Counting Fierce
 >Backstory of assignment here for lore purposes.
